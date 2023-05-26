@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw-21-todo-toolkit/static/css/main.5ffa7bf4.css",
+    "main.js": "/hw-21-todo-toolkit/static/js/main.8d7e48dd.js",
+    "index.html": "/hw-21-todo-toolkit/index.html",
+    "main.5ffa7bf4.css.map": "/hw-21-todo-toolkit/static/css/main.5ffa7bf4.css.map",
+    "main.8d7e48dd.js.map": "/hw-21-todo-toolkit/static/js/main.8d7e48dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ffa7bf4.css",
+    "static/js/main.8d7e48dd.js"
+  ]
+}
